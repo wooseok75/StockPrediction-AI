@@ -1,0 +1,5 @@
+# 깃허브에 올리지 않을 파일들
+token.txt
+.env
+__pycache__/
+.ipynb_checkpoints/
